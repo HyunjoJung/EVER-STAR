@@ -1,6 +1,6 @@
 # EVER-STAR
 
-반려동물 추모/기념 서비스 **EVER-STAR**의 프론트엔드/백엔드 코드와 정리된 문서를 담은 저장소입니다.
+반려동물 추모 서비스 **EVER-STAR**의 프론트엔드/백엔드 코드와 정리된 문서를 담은 저장소입니다.
 
 ## 구조
 - `everStarFrontend/` : React + TypeScript, Playwright E2E, MSW 모킹, OpenVidu/FCM 연동.
